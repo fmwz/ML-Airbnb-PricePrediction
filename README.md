@@ -1,4 +1,4 @@
-#Real Airbnb Price Prediction (Los Angeles)
+# Real Airbnb Price Prediction (Los Angeles)
 This project is about predicting the price of Airbnb listings in Los Angeles using machine learning. The idea is to take structured information about each listing (like number of bedrooms, bathrooms, location, etc.) and train a model that can estimate the price.
 
 ##Dataset
